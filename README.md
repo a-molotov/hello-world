@@ -1,4 +1,4 @@
 # hello-world
-Learning github
 
-Making changes
+* Learning github
+* Making changes
